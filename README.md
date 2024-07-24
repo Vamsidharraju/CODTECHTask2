@@ -67,3 +67,4 @@ Offline Access:
 Ensure the app works offline, with data syncing when the internet is available.
 ![Screenshot 2024-07-24 175811](https://github.com/user-attachments/assets/6dcc298b-ffef-4f37-a9d5-61a33cbb9665)
 
+![Screenshot 2024-07-24 175915](https://github.com/user-attachments/assets/58670627-37a9-46f9-a792-1f8b24337714)
